@@ -87,6 +87,7 @@ Provide context to prevent misleading representation of data
 Report on facts and avoid adding opinions that would sensationalize or stigmatize communities
 Disclose possibility of inaccuracies due to transcription
 Because this dataset was transcribed from crimes reported on paper, we must disclose that there is a possibility of inaccuracies due to transcription errors.
+
 Presentation Link
 
 https://docs.google.com/presentation/d/1Nh8fnIOFrAObTgh9Wi7_SfEj1jz-9krxQI4cPsYPw80/edit?usp=sharing
